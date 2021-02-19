@@ -1,6 +1,6 @@
 Expecto-Patronum Version 1.04 rev. 202102121024
-Tape-Backup using'TAR' & 'MT' for UNIX | 2021 christoph[at]reit-it.de
-Copyright (C) 2021  Christoph Reit 
+Tape-Backup using'TAR' & 'MT' for UNIX 
+Copyright (C) 2021 Christoph Reit christoph[at]reit-it.de
 
 
 This program is free software: you can redistribute it and/or modify
